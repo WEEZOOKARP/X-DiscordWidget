@@ -11,7 +11,7 @@ Here's a really nice guide on how to create the actual widget, This resource sta
 - Application Identities 
 - Widget Management 
 sections
-### (Link)[https://chloecinders.com/blog/discord-widgets#displaying-the-widget-on-your-profile]
+### [Link](https://chloecinders.com/blog/discord-widgets#displaying-the-widget-on-your-profile)
 
 Once you have created your application go to server/main.lua and fill in the values at the top of the file
 Currently the code is setup for a set of 4 text variables with the ids
